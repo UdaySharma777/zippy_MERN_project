@@ -4,8 +4,8 @@ This repository hosts the source code for ZIPPY, a dynamic food ordering website
 
 ## Demo
 
-- User Panel: [](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [](https://food-delivery-admin-wrme.onrender.com/)
+- User Panel: [https://zippy-frontend-tsr4.onrender.com](https://zippy-frontend-tsr4.onrender.com/)
+- Admin Panel: [https://zippy-admin.onrender.com](https://zippy-admin.onrender.com/)
 
 ## Features
 
@@ -30,7 +30,7 @@ This repository hosts the source code for ZIPPY, a dynamic food ordering website
 
 ## Run Locally
 
-Clone the project
+git clone https://github.com/UdaySharma777/zippy_MERN_project.git
 
 ```bash
     git clone ```
